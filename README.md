@@ -1,5 +1,5 @@
 # Unity Music App
-The Unity Music Application is created and built on Unity. It allows users to interact with a virtual instrument setup and play notes for the respective instrument. This application is used as a way to learn the basics of Unity and understand UI elements.
+The Unity Music Application is created and built on Unity. It allows users to interact with a virtual instrument setup and play notes for the respective instrument. This application is simple as it was used to learn the basics of Unity and understand UI elements.
 
 ## User Stories
 - This application will allow users to mimic playing an instrument. 
