@@ -10,7 +10,7 @@ The application currently has two instruments, the piano and a basic drum kit. A
 ![Main Menu](https://github.com/sz64/Unity-Music-App/blob/master/Main.png)
 
 ### Piano
-The piano is simple and it covers the range of notes from C to a D in the next octave. 
+The piano is simple and it covers the range of notes from C to a E in the next octave. 
 ![Piano](https://github.com/sz64/Unity-Music-App/blob/master/Piano.png)
 
 ### Drum
