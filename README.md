@@ -7,15 +7,15 @@ The Unity Music Application is created and built on Unity. It allows users to in
 
 ## Explanation of the Application
 The application currently has two instruments, the piano and a basic drum kit. As seen in the screenshot below the two instruments are to be selected from the main menu. 
-![Main Menu](https://github.com/BUEC500C1/Unity-Music-App-sz64/blob/master/Main.png)
+![Main Menu](https://github.com/sz64/Unity-Music-App/blob/master/Main.png)
 
 ### Piano
 The piano is simple and it covers the range of notes from C to a D in the next octave. 
-![Piano](https://github.com/BUEC500C1/Unity-Music-App-sz64/blob/master/Piano.png)
+![Piano](https://github.com/sz64/Unity-Music-App/blob/master/Piano.png)
 
 ### Drum
 The drum is also simple and allows the user to play one of the most common assortment of drums.
-![Drum](https://github.com/BUEC500C1/Unity-Music-App-sz64/blob/master/Drum.png)
+![Drum](https://github.com/sz64/Unity-Music-App/blob/master/Drum.png)
 
 ## Installation
 There is currently a zip folder with a .exe version of the application included in this repository, but the application can also be built for other platforms, verification that other platforms work when built has not been tested, but other platforms include Android, iOS, and MAC.
